@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DotNetProject\\Catalog\\Catalog.csproj": {}
+    "C:\\DotnetProject\\Versi 5\\DotNet.Web.Api\\Catalog.csproj": {}
   },
   "projects": {
-    "D:\\DotNetProject\\Catalog\\Catalog.csproj": {
+    "C:\\DotnetProject\\Versi 5\\DotNet.Web.Api\\Catalog.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DotNetProject\\Catalog\\Catalog.csproj",
+        "projectUniqueName": "C:\\DotnetProject\\Versi 5\\DotNet.Web.Api\\Catalog.csproj",
         "projectName": "Catalog",
-        "projectPath": "D:\\DotNetProject\\Catalog\\Catalog.csproj",
-        "packagesPath": "C:\\Users\\Threetona\\.nuget\\packages\\",
-        "outputPath": "D:\\DotNetProject\\Catalog\\obj\\",
+        "projectPath": "C:\\DotnetProject\\Versi 5\\DotNet.Web.Api\\Catalog.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\DotnetProject\\Versi 5\\DotNet.Web.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Threetona\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

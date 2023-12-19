@@ -27,3 +27,32 @@ D:\DotNetProject\Catalog\obj\Debug\net5.0\Catalog.dll
 D:\DotNetProject\Catalog\obj\Debug\net5.0\ref\Catalog.dll
 D:\DotNetProject\Catalog\obj\Debug\net5.0\Catalog.pdb
 D:\DotNetProject\Catalog\obj\Debug\net5.0\Catalog.genruntimeconfig.cache
+C:\DotnetProject\Versi 5\DotNet.Web.Api\bin\Debug\net5.0\appsettings.Development.json
+C:\DotnetProject\Versi 5\DotNet.Web.Api\bin\Debug\net5.0\appsettings.json
+C:\DotnetProject\Versi 5\DotNet.Web.Api\bin\Debug\net5.0\Catalog.exe
+C:\DotnetProject\Versi 5\DotNet.Web.Api\bin\Debug\net5.0\Catalog.deps.json
+C:\DotnetProject\Versi 5\DotNet.Web.Api\bin\Debug\net5.0\Catalog.runtimeconfig.json
+C:\DotnetProject\Versi 5\DotNet.Web.Api\bin\Debug\net5.0\Catalog.runtimeconfig.dev.json
+C:\DotnetProject\Versi 5\DotNet.Web.Api\bin\Debug\net5.0\Catalog.dll
+C:\DotnetProject\Versi 5\DotNet.Web.Api\bin\Debug\net5.0\ref\Catalog.dll
+C:\DotnetProject\Versi 5\DotNet.Web.Api\bin\Debug\net5.0\Catalog.pdb
+C:\DotnetProject\Versi 5\DotNet.Web.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\DotnetProject\Versi 5\DotNet.Web.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\DotnetProject\Versi 5\DotNet.Web.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\DotnetProject\Versi 5\DotNet.Web.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\DotnetProject\Versi 5\DotNet.Web.Api\obj\Debug\net5.0\Catalog.csproj.AssemblyReference.cache
+C:\DotnetProject\Versi 5\DotNet.Web.Api\obj\Debug\net5.0\Catalog.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotnetProject\Versi 5\DotNet.Web.Api\obj\Debug\net5.0\Catalog.AssemblyInfoInputs.cache
+C:\DotnetProject\Versi 5\DotNet.Web.Api\obj\Debug\net5.0\Catalog.AssemblyInfo.cs
+C:\DotnetProject\Versi 5\DotNet.Web.Api\obj\Debug\net5.0\Catalog.csproj.CoreCompileInputs.cache
+C:\DotnetProject\Versi 5\DotNet.Web.Api\obj\Debug\net5.0\Catalog.MvcApplicationPartsAssemblyInfo.cs
+C:\DotnetProject\Versi 5\DotNet.Web.Api\obj\Debug\net5.0\Catalog.MvcApplicationPartsAssemblyInfo.cache
+C:\DotnetProject\Versi 5\DotNet.Web.Api\obj\Debug\net5.0\staticwebassets\Catalog.StaticWebAssets.Manifest.cache
+C:\DotnetProject\Versi 5\DotNet.Web.Api\obj\Debug\net5.0\staticwebassets\Catalog.StaticWebAssets.xml
+C:\DotnetProject\Versi 5\DotNet.Web.Api\obj\Debug\net5.0\scopedcss\bundle\Catalog.styles.css
+C:\DotnetProject\Versi 5\DotNet.Web.Api\obj\Debug\net5.0\Catalog.RazorTargetAssemblyInfo.cache
+C:\DotnetProject\Versi 5\DotNet.Web.Api\obj\Debug\net5.0\Catalog.csproj.CopyComplete
+C:\DotnetProject\Versi 5\DotNet.Web.Api\obj\Debug\net5.0\Catalog.dll
+C:\DotnetProject\Versi 5\DotNet.Web.Api\obj\Debug\net5.0\ref\Catalog.dll
+C:\DotnetProject\Versi 5\DotNet.Web.Api\obj\Debug\net5.0\Catalog.pdb
+C:\DotnetProject\Versi 5\DotNet.Web.Api\obj\Debug\net5.0\Catalog.genruntimeconfig.cache
